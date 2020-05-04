@@ -3,4 +3,8 @@ public class HelloDemo01{
 		System.out.println("HelloWorld");
 	}
 	
+	public void sayHello(){
+		System.out.println("sayHello");
+	}
+	
 }
